@@ -17,3 +17,23 @@
   text-align: center;
   color: white;
 }
+
+.textbox {
+  height:200px;
+  border:1px solid #050C3B;
+  text-align: center;
+  background-color: #050C3B;
+  border-radius: 5px
+
+}
+
+.textbox p{
+  font-size: 15px;
+  font-family: Montserrat;
+  color: white;
+}
+
+.textbox h3{
+  font-family: Montserrat;
+  color: white;
+}
