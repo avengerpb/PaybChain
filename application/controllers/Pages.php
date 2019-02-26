@@ -21,5 +21,6 @@ class Pages extends CI_Controller {
 	public function index()
 	{
 		$this->load->view('front_page/nav_bar');
+		$this->load->view('front_page/main');
 	}
 }

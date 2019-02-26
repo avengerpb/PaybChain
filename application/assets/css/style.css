@@ -1,0 +1,19 @@
+.gradient {
+  border: none;
+ background-color: #050D3B;
+ background-image: linear-gradient(270deg, #64E3C9 0%, rgba(90,203,185,0.90) 0%, rgba(13,30,71,0.17) 71%, #050C3B 71%);
+ border: 1px solid #979797;
+}
+
+.page-header .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page-header .text {
+  padding-top: 30px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: white;
+}
