@@ -4,8 +4,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<meta name="viewport" content="width=device-width, user-scalable=false">
+<meta name="viewport" content="width=device-width">
 <script src="http://code.jquery.com/jquery-1.10.0.min.js"></script>
+<script src="application/assets/js/main.js"></script>
 <link rel="stylesheet" href="application/assets/boostrap/css/bootstrap.css">
 <link rel="stylesheet" href="application/assets/css/style.css">
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
