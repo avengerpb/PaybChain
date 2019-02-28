@@ -12,11 +12,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   <button type="button" class="btn btn-primary btn-lg center" style="margin-top: 50px;">Learn more</button>
   </div>
   </header>
-  <!-- Banner -->
+  <!-- End Banner -->
 
   <!-- main -->
   <main>
-    <div class="container">
+  <div class="container">
   <div class="row">
     <div class="col-sm border-0">
       <div class="textbox">
@@ -37,8 +37,37 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       </div>
     </div>
   </div>
-</div>
+
+  <div class="row">
+    <div class="col">
+    <div class="line">
+    </div>
+  </div>
+  </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div class="newsline">
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lorem ex, congue vel turpis mattis, venenatis malesuada ipsum. Sed porttitor, lectus non pretium maximus, </p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col">
+        <div class="newsline">
+          <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lorem ex, congue vel turpis mattis, venenatis malesuada ipsum. Sed porttitor, lectus non pretium maximus, </p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col">
+        <div class="newsline">
+          <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lorem ex, congue vel turpis mattis, venenatis malesuada ipsum. Sed porttitor, lectus non pretium maximus, </p>
+        </div>
+      </div>
+    </div>
+  </div>
   </main>
-</body>
-</html>
-</html>
+  <!-- End main -->

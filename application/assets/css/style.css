@@ -37,3 +37,56 @@
   font-family: Montserrat;
   color: white;
 }
+
+.line {
+  margin-top: 50px;
+  height: 25px;
+  background-color: #050C3B;
+  border-radius: 5px;
+}
+
+.newsline {
+  margin-top: 20px;
+  color: #050C3B;
+  border-bottom: 1px solid black;
+}
+
+.newsline .p {
+  font-size: 15px;
+  font-family: Montserrat;
+  margin-bottom: 5px;
+}
+
+.footer {
+  margin-top: 100px;
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #050D3B;
+  background-image: linear-gradient(270deg, #64E3C9 0%, rgba(90,203,185,0.90) 0%, rgba(13,30,71,0.17) 71%, #050C3B 71%);
+}
+
+/* .footer .col:first-child {
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Montserrat;
+  text-align: center;
+  vertical-align: middle;
+} */
+
+.footer .col {
+  margin-top: 30px;
+  color: white;
+  font-size: 15px;
+  font-family: Montserrat;
+  margin-left: 10%;
+  text-align: inherit;
+  vertical-align: middle;
+}
+
+.footer .col .fab {
+  margin-left: 10px;
+  font-size: 20px;
+}
