@@ -44,7 +44,7 @@
 
 .line {
   margin-top: 50px;
-  height: 25px;
+  height: 20px;
   background-color: #050D3B;
   background-image: linear-gradient(270deg, #64E3C9 0%, rgba(90,203,185,0.90) 0%, rgba(13,30,71,0.17) 71%, #050C3B 71%);
   border-radius: 5px;
