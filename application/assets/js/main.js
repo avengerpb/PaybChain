@@ -1,3 +1,4 @@
 $(document).ready(function() {
-    $("#banner").fadeIn("slow");
+    $(".textbox").hide().fadeIn(4000);
+    $("#banner").hide().fadeIn(4000);
 });
